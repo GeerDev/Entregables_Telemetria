@@ -7,14 +7,24 @@
   - Una cualquiera sobre memoria utilizada.
   - Una cualquiera sobre cpu utilizada.
 
+➡️ [Ver solución](ejercicio-01/README.md)
+
 ### 2. Explica que son los exporters, recording rules y alert rules en el contexto de Prometheus
+
+➡️ [Ver solución](ejercicio-02/README.md)
+
 ### 3. Explica el contenido de la carpeta [01-start-up-loki](https://github.com/Lemoncode/bootcamp-devops-lemoncode/tree/feature/iac-review/06-monitoring/01-exercise/01-start-up-loki)
+
+➡️ [Ver solución](ejercicio-03/README.md)
+
 ### 4. Explica la estructura de una traza en Jaeger
 
 - span
 - traza
 - scope
 - tags
+
+➡️ [Ver solución](ejercicio-04/README.md)
 
 ### 5. Desafíos
 
@@ -26,5 +36,9 @@
 
 **NOTA**: Para instalar la librería seguir los pasos [aquí](https://prometheus.github.io/client_python/exporting/http/fastapi-gunicorn/) detallados.
 
+➡️ [Ver solución](ejercicio-05/README.md)
+
 #### 5.2 Desafío Jaeger
 El siguiente [tutoríal](https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941) muestra cómo usar Jaeger, sigue los pasos para solucionar los distintos issues y crea notas con tu experiencia.
+
+➡️ [Ver solución](ejercicio-05-2/README.md)
