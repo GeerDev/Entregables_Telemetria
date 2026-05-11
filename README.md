@@ -36,7 +36,7 @@
 
 **NOTA**: Para instalar la librería seguir los pasos [aquí](https://prometheus.github.io/client_python/exporting/http/fastapi-gunicorn/) detallados.
 
-➡️ [Ver solución Ejercicio 5.1](ejercicio-05/README.md)
+➡️ [Ver solución Ejercicio 5.1](ejercicio-05-1/README.md)
 
 #### 5.2 Desafío Jaeger
 El siguiente [tutoríal](https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941) muestra cómo usar Jaeger, sigue los pasos para solucionar los distintos issues y crea notas con tu experiencia.
